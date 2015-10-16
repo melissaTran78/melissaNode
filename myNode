@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<!--
+Author: Melissa Tran.
+Date created: October 15,2015-->
+
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Welcome to Melissa Tran's homepage</title>
+ 
+<link rel="stylesheet" href="style.css">
+</head>
+	
+
+<body>
+ <header class="hgroup">
+
+<div id="click">
+<h1>Welcome to Melissa Tran's homepage <br>
+</div>
+</header>
+
+
+<body>
+<p> My name is Melissa. I'm a senior at Austin Peay State University. </p>
+<p>	I'm getting my <strong>BS.</strong> degree as Computer Science major in December 2015</p>
+<p>	Concentration is Database Management. </p>
+<p> Minor is Mobile Software Technology.</p></br>
+
+<p>Please click the link below to check out my school</p>
+	
+
+<p><a href="http://www.apsu.edu">Visit Austin Peay State University</a></br> </p>
+    	
+<h3><em>Thank you for Visiting my homepage.</em></h3></br></br>
+	
+</body>
+  <footer>
+  <p>&copy; 2014 Melissa Tran</p>     
+</footer>
+
+</html>
